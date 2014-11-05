@@ -1,0 +1,25 @@
+
+    <!-- iPhone and iPod touch -->
+    <gap:splash src="res/ios/splash/Default.jpg" gap:platform="ios" width="320" height="480" />
+    <gap:splash src="res/ios/splash/Default@2x.jpg" gap:platform="ios" width="640" height="960" />    
+    <!-- iPhone 5 / iPod Tou/splashch (5th Generation) --
+    <gap:splash src="res/ios/splash/Default-568h@2x.jpg" gap:platform="ios" width="640" height="1136" />    
+    <!-- iPad -->
+    <gap:splash src="res/ios/splash/Default-Portrait.jpg" gap:platform="ios" width="768" height="1024" />
+    <gap:splash src="res/ios/splash/Default-Landscape.jpg" gap:platform="ios" width="1024" height="768" />    
+    <!-- Retina iPad -->
+    <gap:splash src="res/ios/splash/Default-Portrait@2x.jpg" gap:platform="ios" width="1536" height="2048" />
+    <gap:splash src="res/ios/splash/Default-Landscape@2x.jpg" gap:platform="ios" width="2048" height="1536" />
+    
+    
+    
+  
+    <gap:splash gap:platform="android" src="res/android/splash/ldpi.jpg"              gap:qualifier="ldpi" />
+    <gap:splash gap:platform="android" src="res/android/splash/mdpi.jpg"              gap:qualifier="mdpi" />
+    <gap:splash gap:platform="android" src="res/android/splash/hdpi.jpg"              gap:qualifier="hdpi" />
+    <gap:splash gap:platform="android" src="res/android/splash/xhdpi.jpg"             gap:qualifier="xhdpi" />
+    <gap:splash gap:platform="android" src="res/android/splash/fr-xhdpi.jpg"          gap:qualifier="fr-xhdpi" />
+    <gap:splash gap:platform="android" src="res/android/splash/portrait-xxhdpi.jpg"   gap:qualifier="port-xxhdpi" />
+    <gap:splash gap:platform="android" src="res/android/splash/landscape-xxhdpi.jpg"  gap:qualifier="land-xxhdpi" />
+  
+  
