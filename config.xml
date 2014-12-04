@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget 
-  id="com.sensestudios.zoomintv.usa" 
-  version="0.1.1" 
-  versioncode="2"
+  id="com.sensestudios.zoomintv.news" 
+  version="0.2.0" 
+  versioncode="3"
   xmlns="http://www.w3.org/ns/widgets" 
   xmlns:gap="http://phonegap.com/ns/1.0"
   xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:cdv="http://cordova.apache.org/ns/1.0"
 >
 
-    <name>ZoominTV USA</name>
-    <description>ZoominTV USA Channel</description>
+    <name>ZoominTV News</name>
+    <description>ZoominTV News Channel</description>
     <author email="info@zoomin.tv" href="http://zoomin.tv">ZoominTV</author>
     
     <content src="http://zoomintvusa-staging.herokuapp.com" />
