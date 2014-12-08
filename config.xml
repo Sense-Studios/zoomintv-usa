@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget 
   id="com.sensestudios.zoomintv.news" 
-  version="0.2.1" 
-  versioncode="4"
+  version="0.2.2" 
+  versioncode="5"
   xmlns="http://www.w3.org/ns/widgets" 
   xmlns:gap="http://phonegap.com/ns/1.0"
   xmlns:android="http://schemas.android.com/apk/res/android"
@@ -86,7 +86,7 @@
     <icon gap:platform="ios" src="res/ios/icon/Icon-Small-50@2x.png" width="100" height="100" />
     
     <!-- splash -->
-    <gap:splash src="splash.9.png" width="1536" height="2048" />
+    <gap:splash src="splash.png" width="1536" height="2048" />
     
     <!-- splash android -->
     <gap:splash gap:platform="android" src="splash.9.png" gap:qualifier="ldpi" />
