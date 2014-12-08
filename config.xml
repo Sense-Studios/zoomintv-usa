@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget 
   id="com.sensestudios.zoomintv.news" 
-  version="0.2.2" 
-  versioncode="5"
+  version="0.2.3" 
+  versioncode="6"
   xmlns="http://www.w3.org/ns/widgets" 
   xmlns:gap="http://phonegap.com/ns/1.0"
   xmlns:android="http://schemas.android.com/apk/res/android"
@@ -98,14 +98,14 @@
     <gap:splash gap:platform="android" src="splash.9.png" gap:qualifier="land-xxhdpi" />
     
     <!-- splash ios -->
-    <gap:splash gap:platform="ios" src="splash.9.png" width="320"  height="480" />
-    <gap:splash gap:platform="ios" src="splash.9.png" width="640"  height="960" />
-    <gap:splash gap:platform="ios" src="splash.9.png" width="480"  height="320" />
-    <gap:splash gap:platform="ios" src="splash.9.png" width="960"  height="640" />
-    <gap:splash gap:platform="ios" src="splash.9.png" width="768"  height="1024" />
-    <gap:splash gap:platform="ios" src="splash.9.png" width="1536" height="2008" />
-    <gap:splash gap:platform="ios" src="splash.9.png" width="1024" height="768" />
-    <gap:splash gap:platform="ios" src="splash.9.png" width="2048" height="1496" />
-    <gap:splash gap:platform="ios" src="splash.9.png" width="640"  height="1136" />
+    <gap:splash gap:platform="ios" src="splash.png" width="320"  height="480" />
+    <gap:splash gap:platform="ios" src="splash.png" width="640"  height="960" />
+    <gap:splash gap:platform="ios" src="splash.png" width="480"  height="320" />
+    <gap:splash gap:platform="ios" src="splash.png" width="960"  height="640" />
+    <gap:splash gap:platform="ios" src="splash.png" width="768"  height="1024" />
+    <gap:splash gap:platform="ios" src="splash.png" width="1536" height="2008" />
+    <gap:splash gap:platform="ios" src="splash.png" width="1024" height="768" />
+    <gap:splash gap:platform="ios" src="splash.png" width="2048" height="1496" />
+    <gap:splash gap:platform="ios" src="splash.png" width="640"  height="1136" />
         
 </widget>
