@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget 
   id="com.sensestudios.zoomintv.news" 
-  version="0.2.4" 
-  versioncode="7"
+  version="0.2.5" 
+  versioncode="8"
   xmlns="http://www.w3.org/ns/widgets" 
   xmlns:gap="http://phonegap.com/ns/1.0"
   xmlns:android="http://schemas.android.com/apk/res/android"
@@ -13,8 +13,8 @@
     <description>ZoominTV News Channel</description>
     <author email="info@zoomin.tv" href="http://zoomin.tv">ZoominTV</author>
     
-    <content src="http://develop.sense-studios.com:35000" />
-    <!-- <content src="http://zoomintvusa-staging.herokuapp.com" /> -->
+    <!-- <content src="http://develop.sense-studios.com:35000" /> -->
+    <content src="http://zoomintvusa-staging.herokuapp.com" />
     <access origin="*" />
     
     <!-- platforms -->
