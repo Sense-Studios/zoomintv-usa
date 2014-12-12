@@ -25,6 +25,7 @@
     <gap:plugin name="nl.x-services.plugins.socialsharing" version="4.3.6" />
     <gap:plugin name="com.phonegap.plugin.statusbar" version="1.1.0" />    
     <gap:plugin name="org.apache.cordova.splashscreen" version="0.3.3" />
+    <gap:plugin name="com.phonegap.plugins.pushplugin" version="2.4.0" />
     
     <!-- ios specific -->
     <preference name="AllowInlineMediaPlayback" value="true" />
