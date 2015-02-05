@@ -103,13 +103,13 @@
     
     <!-- splash ios -->
     <gap:splash gap:platform="ios" src="res/ios/splash/screen-iphone-portrait.png" width="320"  height="480" />
-    <gap:splash gap:platform="ios" src="res/ios/splashsplash/screen-iphone-portrait-2x.png" width="640"  height="960" />
-    <gap:splash gap:platform="ios" src="res/ios/splashsplash/screen-iphone-landscape.png" width="480"  height="320" />
-    <gap:splash gap:platform="ios" src="res/ios/splashsplash/screen-iphone-landscape-2x.png" width="960"  height="640" />
-    <gap:splash gap:platform="ios" src="res/ios/splashsplash/screen-portrait_768_1024.png" width="768"  height="1024" />
-    <gap:splash gap:platform="ios" src="res/ios/splashsplash/screen-ipad-portrait-2x.png" width="1536" height="2008" />
-    <gap:splash gap:platform="ios" src="res/ios/splashsplash/screen-portrait_1024_768.png" width="1024" height="768" />
-    <gap:splash gap:platform="ios" src="res/ios/splashsplash/splash_2048_1496.png" width="2048" height="1496" />
-    <gap:splash gap:platform="ios" src="res/ios/splashsplash/screen-iphone-portrait-568h-2x.png" width="640"  height="1136" />
+    <gap:splash gap:platform="ios" src="res/ios/splash/screen-iphone-portrait-2x.png" width="640"  height="960" />
+    <gap:splash gap:platform="ios" src="res/ios/splash/screen-iphone-landscape.png" width="480"  height="320" />
+    <gap:splash gap:platform="ios" src="res/ios/splash/screen-iphone-landscape-2x.png" width="960"  height="640" />
+    <gap:splash gap:platform="ios" src="res/ios/splash/screen-portrait_768_1024.png" width="768"  height="1024" />
+    <gap:splash gap:platform="ios" src="res/ios/splash/screen-ipad-portrait-2x.png" width="1536" height="2008" />
+    <gap:splash gap:platform="ios" src="res/ios/splash/screen-portrait_1024_768.png" width="1024" height="768" />
+    <gap:splash gap:platform="ios" src="res/ios/splash/splash_2048_1496.png" width="2048" height="1496" />
+    <gap:splash gap:platform="ios" src="res/ios/splash/screen-iphone-portrait-568h-2x.png" width="640"  height="1136" />
         
 </widget>
