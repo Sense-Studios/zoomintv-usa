@@ -14,8 +14,7 @@
     <author email="info@zoomin.tv" href="http://zoomin.tv">ZoominTV</author>
     
     <!-- <content src="http://develop.sense-studios.com:35000" /> -->
-    <!-- <content src="http://zoomintvnews.herokuapp.com" /> -->
-    <content src="http://preview.zoomin.tv/" />    
+    <content src="http://zoomintvnews.herokuapp.com" />
     <access origin="*" />
     
     <!-- platforms -->
@@ -103,14 +102,14 @@
     <gap:splash gap:platform="android" src="splash.9.png" gap:qualifier="land-xxhdpi" /> <!-- 480dpi XXHDPI- icon- 144x144 -->
     
     <!-- splash ios -->
-    <gap:splash gap:platform="ios" src="splash/screen-iphone-portrait.png" width="320"  height="480" />
-    <gap:splash gap:platform="ios" src="splash/screen-iphone-portrait-2x.png" width="640"  height="960" />
-    <gap:splash gap:platform="ios" src="splash/screen-iphone-landscape.png" width="480"  height="320" />
-    <gap:splash gap:platform="ios" src="splash/screen-iphone-landscape-2x.png" width="960"  height="640" />
-    <gap:splash gap:platform="ios" src="splash/screen-portrait_768_1024.png" width="768"  height="1024" />
-    <gap:splash gap:platform="ios" src="splash/screen-ipad-portrait-2x.png" width="1536" height="2008" />
-    <gap:splash gap:platform="ios" src="splash/screen-portrait_1024_768.png" width="1024" height="768" />
-    <gap:splash gap:platform="ios" src="splash/splash_2048_1496.png" width="2048" height="1496" />
-    <gap:splash gap:platform="ios" src="splash/screen-iphone-portrait-568h-2x.png" width="640"  height="1136" />
+    <gap:splash gap:platform="ios" src="res/ios/splash/screen-iphone-portrait.png" width="320"  height="480" />
+    <gap:splash gap:platform="ios" src="res/ios/splashsplash/screen-iphone-portrait-2x.png" width="640"  height="960" />
+    <gap:splash gap:platform="ios" src="res/ios/splashsplash/screen-iphone-landscape.png" width="480"  height="320" />
+    <gap:splash gap:platform="ios" src="res/ios/splashsplash/screen-iphone-landscape-2x.png" width="960"  height="640" />
+    <gap:splash gap:platform="ios" src="res/ios/splashsplash/screen-portrait_768_1024.png" width="768"  height="1024" />
+    <gap:splash gap:platform="ios" src="res/ios/splashsplash/screen-ipad-portrait-2x.png" width="1536" height="2008" />
+    <gap:splash gap:platform="ios" src="res/ios/splashsplash/screen-portrait_1024_768.png" width="1024" height="768" />
+    <gap:splash gap:platform="ios" src="res/ios/splashsplash/splash_2048_1496.png" width="2048" height="1496" />
+    <gap:splash gap:platform="ios" src="res/ios/splashsplash/screen-iphone-portrait-568h-2x.png" width="640"  height="1136" />
         
 </widget>
