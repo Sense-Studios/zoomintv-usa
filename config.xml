@@ -14,7 +14,9 @@
     <author email="info@zoomin.tv" href="http://zoomin.tv">ZoominTV</author>
     
     <!-- <content src="http://develop.sense-studios.com:35000" /> -->
+    <!-- <content src="http://zoomintvnews-staging.herokuapp.com/" /> -->
     <content src="http://zoomintvnews.herokuapp.com" />
+
     <access origin="*" />
     
     <!-- platforms -->
