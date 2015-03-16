@@ -13,9 +13,9 @@
     <description>ZoominTV News Channel</description>
     <author email="info@zoomin.tv" href="http://zoomin.tv">ZoominTV</author>
     
-    <!-- <content src="http://zoomintvnews.herokuapp.com" /> -->
-    <!-- <content src="http://develop.sense-studios.com:35000" /> -->
-    <content src="http://zoomintvnews-staging.herokuapp.com/" />
+    <!-- <content src="http://zoomintvnews.herokuapp.com" /> -->    
+    <!-- <content src="http://zoomintvnews-staging.herokuapp.com/" /> -->
+    <content src="http://develop.sense-studios.com:3134" />
 
     <access origin="*" />
     
@@ -56,11 +56,11 @@
     <!-- both -->
     <!-- <preference name="SplashScreen" value="splash" /> -->
     <preference name="SplashScreen" value="screen"/>
-    <preference name="SplashScreenDelay" value="8000" />        
-        
+    <preference name="SplashScreenDelay" value="4000" />        
+
     <!-- icon -->
     <gap:icon src="res/both/icon/icon.png" />
-    
+
     <!-- icon android -->
     <icon gap:platform="android" src='res/android/icon/ldpi.png' gap:qualifier='ldpi' />
     <icon gap:platform="android" src='res/android/icon/mdpi.png' gap:qualifier='mdpi' />
