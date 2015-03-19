@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget 
   id="com.sensestudios.zoomintv.news" 
-  version="1.1.0" 
+  version="1.1.1" 
   versioncode="10"
   xmlns="http://www.w3.org/ns/widgets" 
   xmlns:gap="http://phonegap.com/ns/1.0"
