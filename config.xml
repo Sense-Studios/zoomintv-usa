@@ -33,7 +33,7 @@
     <preference name="MediaPlaybackRequiresUserAction" value="false" />
     <preference name="StatusBarOverlaysWebview" value="false" />
     <preference name="DisallowOverscroll" value="true" />
-    <preference name="target-device" value="handset" /> <!-- ios phone only -->    
+    <preference name="target-device" value="universal" /> <!-- ios phone only -->    
     <gap:config-file platform="ios" parent="UIStatusBarHidden">
       <true/>
     </gap:config-file>    
