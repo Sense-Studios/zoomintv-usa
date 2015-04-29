@@ -13,8 +13,8 @@
     <description>ZoominTV News Channel</description>
     <author email="info@zoomin.tv" href="http://zoomin.tv">ZoominTV</author>
     
-    <content src="http://zoomintvnews.herokuapp.com" />     
-    <!-- <content src="http://zoomintvnews-staging.herokuapp.com/" /> -->
+    <!-- <content src="http://zoomintvnews.herokuapp.com" />    --> 
+    <content src="http://zoomintvnews-staging.herokuapp.com/" /> 
     <!-- <content src="http://develop.sense-studios.com:3135" />-->
 
     <access origin="*" />
